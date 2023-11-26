@@ -1,6 +1,7 @@
 # Sentiment Analysis on Movie Reviews
 
+A demo of text vectorization, word embedding, LSTM.
+
 Competition link: https://www.kaggle.com/competitions/sentiment-analysis-on-movie-reviews
 
-Result: 0.62125, c.a. 300/860.
-
+Best result: 0.64623, c.a. 143/860.
